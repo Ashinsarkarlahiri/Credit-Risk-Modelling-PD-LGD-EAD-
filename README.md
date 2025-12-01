@@ -1,1 +1,1 @@
-# Credit-Risk-Modelling-PD-LGD-EAD-
+# Credit Risk Modelling | Calculation of PD, LGD, EDA and EL with Machine Learning in Python
