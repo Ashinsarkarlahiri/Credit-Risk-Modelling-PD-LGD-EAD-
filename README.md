@@ -2,8 +2,7 @@
 # Table of contents
 1. **Background**
 2. **Project**
-3. **Pipeline**
-4. **Key documents**
-5. **Datasets**
-6. **Model performances**
-7. **Deliverables**
+3. **Key documents**
+4. **Datasets**
+5. **Model performances**
+6. **Deliverables**
