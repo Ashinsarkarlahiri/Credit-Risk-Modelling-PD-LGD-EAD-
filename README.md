@@ -40,15 +40,15 @@ Following models are trained for the use in our case
 - **Model: Logistic regression**
 - **Metrics: Accuracy: 0.572 | Area under ROC: 0.684 > 0.50**
 
-**Loss given default (LGD)**
-**Model - Stage/step 1: Logistic regression**
-**Metrics: Accuracy: 0.595 | Area under ROC: 0.640 > 0.50**
-**Model - Stage/step 2: Linear regression**
-**Metric: Accuracy: 0.777**
+2. **Loss given default (LGD):-**
+- **Model - Stage/step 1: Logistic regression**
+- **Metrics: Accuracy: 0.595 | Area under ROC: 0.640 > 0.50**
+- **Model - Stage/step 2: Linear regression**
+- **Metric: Accuracy: 0.777**
 
-**Exposure at default (EAD)**
-**Model: Linear regression**
-**Metric: Accuracy: 0.658**
+3. **Exposure at default (EAD):-**
+- **Model: Linear regression**
+- **Metric: Accuracy: 0.658**
 
 Please note that further steps can be taken forward to improve the performance of models.
 # Deliverables
