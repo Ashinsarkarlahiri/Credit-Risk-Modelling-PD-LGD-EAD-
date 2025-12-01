@@ -36,9 +36,9 @@ The data was then divided into two: one including data from 2007 to 2014 and ano
 # Model performances
 Following models are trained for the use in our case
 
-**Probability of default (PD)**
-**Model: Logistic regression**
-**Metrics: Accuracy: 0.572 | Area under ROC: 0.684 > 0.50**
+*Probability of default (PD)*
+*Model: Logistic regression*
+*Metrics: Accuracy: 0.572 | Area under ROC: 0.684 > 0.50*
 
 **Loss given default (LGD)**
 **Model - Stage/step 1: Logistic regression**
