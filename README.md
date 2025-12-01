@@ -14,13 +14,13 @@ This project is an AI-powered project to model the credit risk in compliance wit
 The goal is to build a credit risk model by using Loan Data to provide a scorecard for a daily use as well as a pipeline to calculate exposure loss.
 
 Here is a step-by-step instruction as also in compliance with the Basel II requirements:
-**1**Preprocessing - Converting columns into dummy variables by fine and coarse classing
-**2**Calculate the PD model with logistic regression
-**3**Based on PD model, provide a practical scorecard in csv format
-**4**Construct LGD model with beta regression
-**5**Build EAD model with linear regression
-**6**Calculate the exposure loss after obtaining all models
-**7**Check the models if they are still doing good with the recent credit risk modeling.
+1. **Preprocessing - Converting columns into dummy variables by fine and coarse classing**
+2. **Calculate the PD model with logistic regression**
+3. **Based on PD model, provide a practical scorecard in csv format**
+4. **Construct LGD model with beta regression**
+5. **Build EAD model with linear regression**
+6. **Calculate the exposure loss after obtaining all models**
+7. **Check the models if they are still doing good with the recent credit risk modeling.**
 # Key documents
 Notebooks shown below:
 **L01** - A preprocessing notebook and feature engineering
