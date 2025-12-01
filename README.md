@@ -23,10 +23,10 @@ Here is a step-by-step instruction as also in compliance with the Basel II requi
 7. **Check the models if they are still doing good with the recent credit risk modeling.**
 # Key documents
 Notebooks shown below:
--> **L01 - A preprocessing notebook and feature engineering**
--> **L02 - A notebook on modelling probability of default (PD), delivering scorecard and calculating cutoff rate**
--> **L03 - A notebook on modelling loss given default (LGD), exposure at default (EAD) and expected loss (EL)**
--> **L04 - A notebook on checking population stability index**
+1. **L01 - A preprocessing notebook and feature engineering**
+2. **L02 - A notebook on modelling probability of default (PD), delivering scorecard and calculating cutoff rate**
+3. **L03 - A notebook on modelling loss given default (LGD), exposure at default (EAD) and expected loss (EL)**
+4. **L04 - A notebook on checking population stability index**
 # Datasets
 The dataset comes from Lending Club. It is a large US peer-to-peer lending company. Different versions of this dataset existing, here the data was taken from a version available on kaggle.com
 
