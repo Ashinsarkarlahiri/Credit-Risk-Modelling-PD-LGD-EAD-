@@ -52,13 +52,13 @@ Following models are trained for the use in our case
 
 Please note that further steps can be taken forward to improve the performance of models.
 # Deliverables
-**1** Scorecard, easy to interpret in comliance with the requirements
-**2** Dataframe to test the impact of cut off rates on the number of accepted borrowers for credit
-**3** Models on loss given default (LGD), exposure at default (EAD) and expected loss (EL)
-**4** Schema to check the population stability index with the recent data
+1. **Scorecard, easy to interpret in comliance with the requirements**
+2. **Dataframe to test the impact of cut off rates on the number of accepted borrowers for credit**
+3. **Models on loss given default (LGD), exposure at default (EAD) and expected loss (EL)**
+4. **Schema to check the population stability index with the recent data**
 # Key documents
-Notebooks
-**1** - A preprocessing notebook
-**2** - A notebook on selecting features for probability of default (PD) and modelling PD
-**3** - A notebook on modelling loss given default (LGD), exposure at default (EAD) and Expected Loss (EL)
-**4** - A notebook on checking population stability index
+Notebooks:-
+1.  **A preprocessing notebook (L01)**
+2.  **A notebook on selecting features for probability of default (PD) and modelling PD (L02)**
+3.  **A notebook on modelling loss given default (LGD), exposure at default (EAD) and Expected Loss (EL) (L03)**
+4.  **A notebook on checking population stability index (L04)**
