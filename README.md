@@ -34,7 +34,7 @@ It contains all available data for more than 800,000 consumer loans issued from 
 
 The data was then divided into two: one including data from 2007 to 2014 and another including data of 2015. Assuming that data from 2007 to 2014 are available at the moment when Expected Loss models are built. Then, the models are checked with more recent data (data on 2015) to evaluate whether the applications we have received after building the Probability of Default (PD) model have similar characteristics with the applications or not.
 # Model performances
-Following models are trained for the use in our case
+Following models are trained for the use in our case:
 
 1. **Probability of default (PD):-**
 - **Model: Logistic regression**
